@@ -6,4 +6,4 @@ Aluna: Ana Carolina Medrado
 [link] (https://discord.com/channels/@me)
 
 ### Inserindo uma imagem
-![logo phyton] (https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+![logo phyton] (https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png)
